@@ -1,2 +1,2 @@
 Este é o exemplo de um ficheiro de texto file3
-
+Cá estou eu a adicionar algumas linhas.
