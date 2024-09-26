@@ -1,2 +1,4 @@
 Este é o exemplo de um ficheiro de texto file1
 Fiz uma alteração dentro do ficheiro!! :)
+
+Esta alteração foi feita no dia 26/09/2024.
